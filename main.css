@@ -84,6 +84,14 @@ position: fixed;
     padding-right: 30px;
 }
 
+.row-heka {
+/*position: fixed;*/
+    overflow: hidden;
+    height: 100%;
+    padding-top: 130px;
+    padding-right: 30px;
+}
+
 
 .col-1 {
     width: 45%;
@@ -97,6 +105,7 @@ position: fixed;
     text-align: right;
     padding-top: 120px;
     padding-right: 110px;
+/*    padding-left: 0px;*/
     height: 520px;
 }
 
